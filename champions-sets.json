@@ -3308,23 +3308,6 @@
         "sd": 12
       }
     },
-     "testing": {
-      "ability": "Snow Warning",
-      "item": "Abomasite",
-      "nature": "Quiet",
-      "moves": [
-        "Grass Knot",
-        "Blizzard",
-        "Ice Shard",
-        "Earthquake"
-      ],
-      "sps": {
-        "hp": 31,
-        "df": 2,
-        "sa": 20,
-        "sd": 12
-      }
-    },
     "SM Battle Spot Doubles Showdown Usage": {
       "ability": "Snow Warning",
       "item": "Abomasite",
