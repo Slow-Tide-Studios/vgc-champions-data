@@ -33,6 +33,23 @@
         "sp": 7
       }
     },
+     "testtttt": {
+      "ability": "Chlorophyll",
+      "item": "Venusaurite",
+      "nature": "Bold",
+      "moves": [
+        "Sludge Bomb",
+        "Giga Drain",
+        "Leech Seed",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 7,
+        "sd": 19,
+        "sp": 7
+      }
+    },
     "SM VGC 2019 Offensive Chlorophyll": {
       "ability": "Chlorophyll",
       "item": "Focus Sash",
