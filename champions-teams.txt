@@ -4,7 +4,7 @@
 # by removing its block. Text before the first "### " (like this) is ignored.
 # Team data © the VGCPastes community and the listed owners.
 
-### MB358
+### MB666
 name: Yahia's team
 author: joeux9
 event: St. Jude Charity Tournament
