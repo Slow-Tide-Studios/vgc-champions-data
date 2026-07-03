@@ -4,60 +4,6 @@
 # by removing its block. Text before the first "### " (like this) is ignored.
 # Team data © the VGCPastes community and the listed owners.
 
-### MB666
-name: Yahia's team
-author: joeux9
-event: St. Jude Charity Tournament
-rank: Celestial
-
-Charizard @ Charizardite Y
-Ability: Blaze
-Modest Nature
-- Heat Wave
-- Weather Ball
-- Solar Beam
-- Protect
-
-Farigiraf @ Colbur Berry
-Ability: Armor Tail
-Modest Nature
-- Psychic
-- Thunderbolt
-- Helping Hand
-- Trick Room
-
-Venusaur @ Focus Sash
-Ability: Chlorophyll
-Modest Nature
-- Leaf Storm
-- Sludge Bomb
-- Sleep Powder
-- Protect
-
-Garchomp @ Life Orb
-Ability: Rough Skin
-Jolly Nature
-- Rock Slide
-- Dragon Claw
-- Earthquake
-- Protect
-
-Pikachu @ Sitrus Berry
-Ability: Intimidate
-Careful Nature
-- Flare Blitz
-- Darkest Lariat
-- Parting Shot
-- Fake Out
-
-Pyroar @ Fairy Feather
-Ability: Pixilate
-Modest Nature
-- Hyper Voice
-- Hyper Beam
-- Quick Attack
-- Protect
-
 ### MB358
 name: JoeUX9's St. Jude VGC Charity Tournament Champion Team
 author: joeux9
