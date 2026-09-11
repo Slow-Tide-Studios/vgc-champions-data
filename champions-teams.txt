@@ -4,6 +4,5203 @@
 # by removing its block. Text before the first "### " (like this) is ignored.
 # Team data © the VGCPastes community and the listed owners.
 
+### MC81
+name: jonhy's Salamence Lucario-Z Team
+author: jonhyyyyy
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 22 HP / 32 Atk / 12 Spe
+Adamant Nature
+- Grassy Glide
+- Protect
+- Wood Hammer
+- Fake Out
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Modest Nature
+- Flash Cannon
+- Calm Mind
+- Protect
+- Aura Sphere
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Draco Meteor
+- Hyper Voice
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Head Smash
+- Extreme Speed
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 31 Atk / 11 Def / 20 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Detect
+- Hyper Voice
+- Quick Attack
+- Hyper Beam
+
+### MC80
+name: speedykid's Salamence Sylveon Team
+author: speedyplaygames
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 5 HP / 32 SpA / 29 Spe
+Timid Nature
+- Hyper Voice
+- Heat Wave
+- Tailwind
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 9 HP / 22 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Quick Attack
+- Hyper Beam
+- Detect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Wide Guard
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 29 HP / 20 Def / 17 SpD
+Relaxed Nature
+- Psychic
+- Thunderbolt
+- Helping Hand
+- Trick Room
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 26 HP / 32 Atk / 8 SpD
+Brave Nature
+- Leech Life
+- First Impression
+- Iron Head
+- Close Combat
+
+### MC79
+name: Yurine's Floette Ceruledge Team
+author: yurineptcg
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 5 Atk / 3 SpD / 26 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- Superpower
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 12 HP / 26 Def / 9 SpA / 19 Spe
+Timid Nature
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Incineroar @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 25 Atk / 14 Def / 27 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Ceruledge @ Grassy Seed
+Ability: Flash Fire
+Level: 50
+EVs: 31 HP / 25 Atk / 10 Def
+Adamant Nature
+- Bitter Blade
+- Shadow Sneak
+- Swords Dance
+- Protect
+
+### MC78
+name: Alejandro's Salamence Rillaboom Team
+author: alejandrofdz_
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 27 HP / 1 Def / 10 SpD / 28 Spe
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 32 Atk / 13 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 20 HP / 22 Def / 5 SpA / 19 Spe
+Modest Nature
+- Protect
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Hyper Voice
+- Tailwind
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 25 Atk / 9 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Adamant Nature
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+### MC77
+name: Spits25's Glimmora Pawmot Team
+author: spits25
+
+Pawmot @ Focus Sash
+Ability: Volt Absorb
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Double-Edge
+- Close Combat
+- Revival Blessing
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- Flare Blitz
+- Tailwind
+- Protect
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 8 HP / 26 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Hyper Voice
+- Thunderbolt
+- Protect
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 20 Atk / 14 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Sludge Bomb
+- Earth Power
+- Spiky Shield
+
+Indeedee-F (F) @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Terrain Pulse
+- Follow Me
+- Helping Hand
+- Trick Room
+
+### MC76
+name: ntmgpoke's Gardevoir Talonflame Team
+author: ntmgpoke
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 15 Def / 15 SpA / 4 Spe
+Modest Nature
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Protect
+
+Indeedee-F (F) @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Psychic
+- Helping Hand
+- Follow Me
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 6 HP / 24 Atk / 4 Def / 32 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Brave Bird
+- Tailwind
+- Protect
+
+Basculegion (M) @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Adamant Nature
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Rock Slide
+- Protect
+
+### MC75
+name: Q's Gardevoir Sneasler Team
+author: q_vgc_poke0306
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Close Combat
+- Dire Claw
+- Swords Dance
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Protect
+- Aura Sphere
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 30 HP / 16 Atk / 18 SpD / 2 Spe
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Kowtow Cleave
+- Low Kick
+
+Basculegion (M) @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Last Respects
+- Liquidation
+- Aqua Jet
+- Protect
+
+Indeedee-F (F) @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 25 Def / 9 SpA
+Bold Nature
+- Terrain Pulse
+- Follow Me
+- Helping Hand
+- Imprison
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Tailwind
+- Flamethrower
+- Protect
+
+### MC74
+name: Tz Cogao's Golisopod Dragalge Team
+author: cogaovgc
+
+Indeedee-F (F) @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 31 Def / 3 SpD
+Relaxed Nature
+- Psychic
+- Follow Me
+- Trick Room
+- Helping Hand
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Heat Wave
+- Expanding Force
+- Trick Room
+- Psychic
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Leech Life
+- Iron Head
+- Close Combat
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 31 HP / 20 Def / 15 SpD
+Relaxed Nature
+- Expanding Force
+- Helping Hand
+- Trick Room
+- Psychic Terrain
+
+Dragalge @ Dragalgite
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Sludge Bomb
+- Flip Turn
+- Dragon Pulse
+- Protect
+
+### MC73
+name: Pasty's Bellibolt Rillaboom Team
+author: pastyhxc
+
+Bellibolt @ Leftovers
+Ability: Electromorphosis
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Modest Nature
+- Protect
+- Parabolic Charge
+- Thunderbolt
+- Muddy Water
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Adamant Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 19 HP / 12 Atk / 18 Def / 17 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Protect
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Aqua Jet
+- Last Respects
+- Wave Crash
+- Soak
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 22 HP / 22 Def / 1 SpA / 21 Spe
+Modest Nature
+- Protect
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+
+### MC72
+name: Ping's Golisopod Gardevoir Team
+author: lugiafan76
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 31 HP / 32 Def / 1 SpA / 1 SpD / 1 Spe
+Bold Nature
+- Follow Me
+- Helping Hand
+- Psychic
+- Trick Room
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 1 Def / 5 SpA / 17 SpD / 11 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Iron Head
+- Leech Life
+- Liquidation
+- Protect
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Protect
+- Kowtow Cleave
+- Low Kick
+- Iron Head
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Protect
+- Trick Room
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Rock Slide
+- Protect
+
+### MC71
+name: mop's Salamence Floette Team
+author: themophia
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 18 Atk / 16 SpA / 32 Spe
+Hasty Nature
+- Hyper Voice
+- Double-Edge
+- Tailwind
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 27 HP / 20 Def / 15 SpA / 4 Spe
+Modest Nature
+- Dazzling Gleam
+- Calm Mind
+- Moonblast
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 17 HP / 25 Atk / 15 SpD / 9 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpD / 1 Spe
+Impish Nature
+- Flare Blitz
+- Parting Shot
+- Throat Chop
+- Fake Out
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+### MC70
+name: Cosmo's Floette Dragapult Team
+author: cosmo_poke_
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 28 HP / 24 Def / 5 SpA / 9 Spe
+Modest Nature
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Incineroar @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 7 SpD / 27 Spe
+Careful Nature
+- Flare Blitz
+- Roar
+- Parting Shot
+- Fake Out
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 30 SpD / 4 Spe
+Careful Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Dragapult @ Focus Sash
+Ability: Infiltrator
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Shadow Ball
+- Will-O-Wisp
+- Disable
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Fake Out
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 18 Atk / 14 Def / 1 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Low Kick
+- Sucker Punch
+- Protect
+
+### MC69
+name: SableyeVGC's r/VGC Regulation M-C Kickoff Cup Champion Team
+author: sableyevgc
+event: r/VGC Regulation M-C Kickoff Cup
+rank: Champion
+
+Salamence-Mega @ Salamencite
+Ability: Aerilate
+Level: 50
+EVs: 1 HP / 21 Atk / 15 SpA / 29 Spe
+Naive Nature
+- Hyper Voice
+- Double-Edge
+- Tailwind
+- Protect
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 18 HP / 25 Atk / 5 Def / 10 SpD / 8 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 16 HP / 20 Atk / 30 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Head Smash
+- Extreme Speed
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 25 Atk / 2 Def / 6 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Low Kick
+- Sucker Punch
+
+Basculegion (M) @ Mystic Water
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 23 Atk / 13 Def / 26 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+### MC68
+name: thepostmanp's r/VGC Regulation M-C Kickoff Cup Top 8 Team
+author: thepostmanp
+event: r/VGC Regulation M-C Kickoff Cup
+rank: 8th
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Double Shock
+- Close Combat
+- Revival Blessing
+- Fake Out
+
+Froslass (F) @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 14 HP / 20 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Shadow Ball
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 24 HP / 32 Atk / 10 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Protect
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 9 HP / 25 SpA / 32 Spe
+Timid Nature
+- Spiky Shield
+- Power Gem
+- Sludge Bomb
+- Earth Power
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 7 HP / 32 Atk / 27 Spe
+Adamant Nature
+- Feint
+- Tailwind
+- Brave Bird
+- Flare Blitz
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 18 Atk / 30 Def / 18 Spe
+Adamant Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Protect
+
+### MC67
+name: Conkledonk's r/VGC Regulation M-C Kickoff Cup Top 16 Team
+author: conkledonkvgc
+event: r/VGC Regulation M-C Kickoff Cup
+rank: 15th
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Protect
+- Sludge Bomb
+- Leaf Storm
+- Sleep Powder
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 14 HP / 20 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 12 Def / 21 SpD / 1 Spe
+Impish Nature
+- Fake Out
+- Darkest Lariat
+- Flare Blitz
+- Parting Shot
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 28 HP / 26 Def / 1 SpA / 11 Spe
+Modest Nature
+- Protect
+- Weather Ball
+- Heat Wave
+- Ancient Power
+
+Toxapex @ Leftovers
+Ability: Regenerator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Bold Nature
+- Baneful Bunker
+- Toxic
+- Infestation
+- Wide Guard
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Protect
+- Swords Dance
+- Sucker Punch
+- Kowtow Cleave
+
+### MC66
+name: naito_pokemon's Salamence Floette Team
+author: naito_pokemon
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Flamethrower
+- Tailwind
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 28 HP / 16 Atk / 19 SpD / 3 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Low Kick
+- Sucker Punch
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 22 HP / 10 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Rock Slide
+- Protect
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 10 HP / 17 Def / 15 SpA / 24 Spe
+Modest Nature
+- Light of Ruin
+- Moonblast
+- Dazzling Gleam
+- Protect
+
+### MC65
+name: kingyabber's Salamence Scizor Rain Team
+author: kingyabber
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 1 Atk / 32 SpA / 32 Spe
+Naive Nature
+- Double-Edge
+- Hyper Voice
+- Dragon Pulse
+- Protect
+
+Scizor @ Scizorite
+Ability: Technician
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Bug Bite
+- Bullet Punch
+- Swords Dance
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 5 SpA / 26 SpD / 3 Spe
+Modest Nature
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Protect
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 26 HP / 25 Atk / 5 Def / 5 SpD / 5 Spe
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+### MC64
+name: Twilite's Salamence Raichu-Y Team
+author: twilite0
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 23 Atk / 11 SpA / 32 Spe
+Naive Nature
+- Protect
+- Double-Edge
+- Tailwind
+- Hyper Voice
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 32 HP / 1 Def / 1 SpD / 32 Spe
+Timid Nature
+- Protect
+- Zap Cannon
+- Fake Out
+- Focus Blast
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 7 HP / 27 SpA / 32 Spe
+Modest Nature
+- Protect
+- Make It Rain
+- Nasty Plot
+- Shadow Ball
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 31 HP / 11 Atk / 24 SpD
+Careful Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Protect
+- Close Combat
+- Fake Out
+- Poison Jab
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 19 HP / 32 SpA / 15 Spe
+Modest Nature
+- Detect
+- Quick Attack
+- Hyper Voice
+- Hyper Beam
+
+### MC63
+name: rockbell_poke's Salamence Sand Team
+author: rockbell_poke
+
+Armarouge @ Focus Sash
+Ability: Weak Armor
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Armor Cannon
+- Aura Sphere
+- Protect
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 30 HP / 19 Def / 17 SpD
+Bold Nature
+- Psychic
+- Follow Me
+- Helping Hand
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 20 HP / 10 Atk / 19 Def / 17 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Feint
+- Fake Out
+
+Excadrill @ Life Orb
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Earthquake
+- Iron Head
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 22 HP / 16 Atk / 28 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+### MC62
+name: jessditta's Scrafty Mawile TR Team
+author: jessditta
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Rock Slide
+- Play Rough
+- Sucker Punch
+- Protect
+
+Hatterene (F) @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 32 SpA / 1 SpD
+Quiet Nature
+- Expanding Force
+- Dazzling Gleam
+- Trick Room
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Heat Wave
+- Protect
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Knock Off
+- Close Combat
+- Rock Slide
+
+Indeedee-F (F) @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 19 Def / 1 SpA / 14 SpD
+Bold Nature
+- Terrain Pulse
+- Trick Room
+- Protect
+- Follow Me
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Focus Blast
+
+### MC61
+name: jessditta's Tyranitar Indeedee-M Team
+author: jessditta
+
+Indeedee (M) @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 1 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Trick
+- Encore
+- Shadow Ball
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 19 Def / 10 SpA / 5 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Icy Wind
+- Recover
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 9 HP / 24 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 17 HP / 17 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Corviknight @ Psychic Seed
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 5 Atk / 16 Def / 13 SpD
+Impish Nature
+- Body Press
+- Iron Head
+- Iron Defense
+- Roost
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+### MC60
+name: jessditta's Baxcalibur Snow Team
+author: jessditta
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 9 HP / 32 Atk / 2 Def / 23 Spe
+Adamant Nature
+- Breaking Swipe
+- Ice Shard
+- Dragon Dance
+- Protect
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 17 HP / 25 Atk / 4 Def / 10 SpD / 10 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Sassy Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Darkest Lariat
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+EVs: 22 HP / 19 Def / 12 SpA / 3 SpD / 10 Spe
+Bold Nature
+- Fiery Dance
+- Struggle Bug
+- Quiver Dance
+- Protect
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+EVs: 9 HP / 1 Def / 26 SpA / 30 Spe
+Timid Nature
+- Blizzard
+- Moonblast
+- Aurora Veil
+- Protect
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Spiky Shield
+- Power Gem
+- Sludge Bomb
+- Earth Power
+
+### MC59
+name: jessditta's Salamence Sand Team
+author: jessditta
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 19 Def / 10 SpA / 5 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Icy Wind
+- Recover
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 17 HP / 17 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+Level: 50
+EVs: 17 HP / 25 Atk / 4 Def / 10 SpD / 10 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+### MC58
+name: axolodyl's Lucario-Z Aerodactyl Team
+author: axolodyl
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Flash Cannon
+- Aura Sphere
+- Calm Mind
+- Detect
+
+Aerodactyl @ Aerodactylite
+Ability: Unnerve
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dual Wingbeat
+- Rock Slide
+- Tailwind
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Coaching
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 26 Atk / 8 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Protect
+
+Grimmsnarl (M) @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 32 HP / 27 Def / 7 SpD
+Careful Nature
+- Spirit Break
+- Reflect
+- Light Screen
+- Parting Shot
+
+### MC57
+name: axolodyl's Baxcalibur Glimmora Team
+author: axolodyl
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Ice Shard
+- Protect
+
+Glimmora @ Glimmoranite
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Sludge Bomb
+- Power Gem
+- Earth Power
+- Spiky Shield
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 26 Atk / 8 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Pawmot @ Focus Sash
+Ability: Iron Fist
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Revival Blessing
+- Double Shock
+- Close Combat
+- Ice Punch
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Adamant Nature
+- Dual Wingbeat
+- Flare Blitz
+- Tailwind
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Protect
+
+### MC56
+name: axolodyl's Salamence Golisopod Team
+author: axolodyl
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Liquidation
+- Iron Head
+- Leech Life
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 26 Atk / 8 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 32 HP / 20 Def / 14 SpD
+Bold Nature
+- Psychic
+- Thunderbolt
+- Helping Hand
+- Trick Room
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Sucker Punch
+- Kowtow Cleave
+- Iron Head
+- Protect
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 32 HP / 10 Def / 9 SpA / 15 SpD
+Bold Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- Wide Guard
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Hyper Voice
+- Hurricane
+- Protect
+
+### MC55
+name: MemeGuy924's Salamence Sand Team
+author: MemeGuy924
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 6 HP / 28 SpA / 32 Spe
+Timid Nature
+- Draco Meteor
+- Hyper Voice
+- Tailwind
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 17 HP / 20 Atk / 29 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Protect
+
+Milotic @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 22 Def / 10 SpA / 2 Spe
+Modest Nature
+- Scald
+- Icy Wind
+- Haze
+- Protect
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+EVs: 30 HP / 17 SpA / 19 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 24 Def / 10 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+### MC54
+name: castillo11vgc's Showdown Ladder Peak 3rd Place Team
+author: castillo11vgc
+event: Showdown Ladder
+rank: Peak 3rd
+
+Blastoise-Mega @ Blastoisinite
+Ability: Torrent
+Level: 50
+EVs: 22 HP / 25 SpA / 19 Spe
+Modest Nature
+- Water Spout
+- Terrain Pulse
+- Shell Smash
+- Protect
+
+Indeedee-F (F) @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Terrain Pulse
+- Helping Hand
+- Trick Room
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 31 HP / 4 Def / 1 SpA / 30 SpD
+Relaxed Nature
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Trick Room
+
+Kingambit (M) @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Low Kick
+- Iron Head
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Expanding Force
+- Heat Wave
+- Wide Guard
+- Trick Room
+
+Baxcalibur-Mega @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 12 HP / 3 Atk / 2 Def / 18 SpD / 31 Spe
+Jolly Nature
+- Glaive Rush
+- Ice Shard
+- Dragon Dance
+- Protect
+
+### MC53
+name: reydegonnet's Charizard-X Floette Team
+author: reydegonnet
+
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 30 Atk / 32 Spe
+Adamant Nature
+- Dragon Dance
+- Dragon Claw
+- Protect
+- Flare Blitz
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Wood Hammer
+- Fake Out
+- Stomping Tantrum
+- Grassy Glide
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Adamant Nature
+- Sucker Punch
+- Low Kick
+- Kowtow Cleave
+- Iron Head
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 4 HP / 8 Def / 32 SpA / 22 Spe
+Timid Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dire Claw
+- Fake Out
+- Close Combat
+- Protect
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 29 HP / 5 Atk / 16 Def / 16 SpD
+Impish Nature
+- Throat Chop
+- Flare Blitz
+- Fake Out
+- Parting Shot
+
+### MC52
+name: metalderk's Salamence Floette Team
+author: derkpkmn
+event: Video
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Tailwind
+- Dragon Pulse
+- Hyper Voice
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 31 HP / 5 Atk / 18 Def / 11 SpD / 1 Spe
+Adamant Nature
+- High Horsepower
+- Grassy Glide
+- Fake Out
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 12 HP / 32 Atk / 4 SpD / 18 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Rock Slide
+- Quick Guard
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 32 HP / 16 Def / 15 SpA / 3 Spe
+Modest Nature
+- Calm Mind
+- Draining Kiss
+- Light of Ruin
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 6 Def / 20 SpD / 8 Spe
+Careful Nature
+- Fake Out
+- Throat Chop
+- Parting Shot
+- Flare Blitz
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 31 HP / 32 Atk / 2 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+### MC51
+name: Wataru's Salamence Floette Team
+author: kou_111111
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Flamethrower
+- Substitute
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 14 Atk / 16 Def / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Kowtow Cleave
+- Low Kick
+- Sucker Punch
+- Iron Head
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 18 HP / 12 Atk / 5 Def / 1 SpD / 30 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Feint
+
+Rillaboom @ Focus Sash
+Ability: Grassy Surge
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Jolly Nature
+- Drum Beating
+- U-turn
+- Grassy Glide
+- Fake Out
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 26 HP / 26 Def / 5 SpA / 9 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+### MC50
+name: hattington360's Absol-Z Mawile Team
+author: hattington360
+
+Absol @ Absolite Z
+Ability: Justified
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Night Slash
+- Shadow Claw
+- Focus Energy
+- Detect
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Psychic
+- Follow Me
+- Trick Room
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Moonblast
+- Beat Up
+- Taunt
+- Tailwind
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Protect
+- Play Rough
+- Iron Head
+- Sucker Punch
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 SpD / 2 Spe
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+### MC49
+name: _ghira_'s Salamence Blaziken Team
+author: _ghira_
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 22 Atk / 10 SpD / 32 Spe
+Hasty Nature
+- Double-Edge
+- Draco Meteor
+- Tailwind
+- Protect
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 27 Def / 5 SpD / 2 Spe
+Calm Nature
+- Terrain Pulse
+- Helping Hand
+- Follow Me
+- Trick Room
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 27 HP / 24 Def / 10 SpA / 5 Spe
+Modest Nature
+- Protect
+- Hyper Voice
+- Yawn
+- Quick Attack
+
+Toxtricity @ Choice Scarf
+Ability: Punk Rock
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overdrive
+- Sludge Bomb
+- Snarl
+- Volt Switch
+
+Persian-Alola @ Focus Sash
+Ability: Fur Coat
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Foul Play
+- Parting Shot
+- Fake Out
+- Snarl
+
+Blaziken @ Blazikenite
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Flare Blitz
+- Rock Slide
+- Protect
+
+### MC48
+name: reydegonnet's Charizard-X Floette Team
+author: reydegonnet
+
+Charizard @ Charizardite X
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 30 Atk / 32 Spe
+Adamant Nature
+- Dragon Dance
+- Dragon Claw
+- Protect
+- Flare Blitz
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Wood Hammer
+- Fake Out
+- Stomping Tantrum
+- Grassy Glide
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 25 Atk / 8 SpD / 1 Spe
+Adamant Nature
+- Sucker Punch
+- Swords Dance
+- Protect
+- Kowtow Cleave
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 4 HP / 8 Def / 32 SpA / 22 Spe
+Timid Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Poison Touch
+Level: 50
+EVs: 24 HP / 10 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Fake Out
+- Close Combat
+- Protect
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 29 HP / 5 Atk / 16 Def / 16 SpD
+Impish Nature
+- Throat Chop
+- Flare Blitz
+- Fake Out
+- Helping Hand
+
+### MC47
+name: TalonMasterJ's Salamence Floette Team
+author: joecarlino14
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 20 HP / 32 Atk / 14 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 20 Def / 12 SpA / 32 Spe
+Modest Nature
+- Light of Ruin
+- Moonblast
+- Dazzling Gleam
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+### MC46
+name: starlightkairi's Baxcalibur Golisopod Team
+author: starlightkairi
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Leech Life
+- Iron Head
+- Close Combat
+- Protect
+
+Indeedee-F (F) @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Follow Me
+- Helping Hand
+- Psychic
+- Trick Room
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Rage Powder
+- Matcha Gotcha
+- Trick Room
+- Protect
+
+Armarouge @ Colbur Berry
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 8 Def / 26 SpA
+Quiet Nature
+- Wide Guard
+- Aura Sphere
+- Armor Cannon
+- Expanding Force
+
+Hatterene (F) @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Expanding Force
+- Dazzling Gleam
+- Trick Room
+- Protect
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Glaive Rush
+- Ice Shard
+- Iron Head
+- Protect
+
+### MC45
+name: shubham_rk9's Baxcalibur Golisopod Team
+author: shubham_rk9
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 30 HP / 26 Def / 10 SpD
+Bold Nature
+- Twin Beam
+- Thunderbolt
+- Trick Room
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Leech Life
+- Aqua Jet
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 12 HP / 32 Atk / 4 SpD / 18 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 18 HP / 22 Atk / 11 Def / 12 SpD / 3 Spe
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 5 SpA / 16 SpD / 12 Spe
+Modest Nature
+- Wide Guard
+- Tailwind
+- Hurricane
+- Weather Ball
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Protect
+- Ice Shard
+
+### MC44
+name: Feitosa's Gardevoir Salamence Team
+author: PHSFeitosa
+
+Arcanine-Hisui @ Focus Sash
+Ability: Rock Head
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Protect
+- Head Smash
+- Extreme Speed
+- Flare Blitz
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 25 Def / 5 SpA / 3 SpD / 1 Spe
+Modest Nature
+- Protect
+- Trick Room
+- Hyper Voice
+- Expanding Force
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Draco Meteor
+- Hyper Voice
+
+Indeedee-F (F) @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Protect
+- Follow Me
+- Helping Hand
+- Terrain Pulse
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 24 HP / 18 Atk / 10 Def / 8 SpD / 6 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Last Respects
+- Agility
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 14 HP / 22 Atk / 9 Def / 2 SpD / 19 Spe
+Adamant Nature
+- Protect
+- Close Combat
+- Throat Chop
+- Dire Claw
+
+### MC43
+name: LenVGC's Gardevoir HTR Team
+author: LenVGC
+
+Indeedee-F (F) @ Sitrus Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Terrain Pulse
+- Helping Hand
+- Follow Me
+- Trick Room
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 29 HP / 32 SpA / 5 SpD
+Quiet Nature
+- Expanding Force
+- Armor Cannon
+- Trick Room
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Helping Hand
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+- Swords Dance
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 28 HP / 17 Def / 10 SpA / 11 Spe
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Trick Room
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Throat Chop
+- Protect
+
+### MC42
+name: drbananavgc's Meowstic Golisopod Team
+author: drbananavgc
+
+Meowstic-F (F) @ Meowsticite
+Ability: Competitive
+Level: 50
+EVs: 5 HP / 32 SpA / 29 Spe
+Timid Nature
+- Expanding Force
+- Alluring Voice
+- Nasty Plot
+- Protect
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 28 Def / 6 SpD
+Bold Nature
+- Dazzling Gleam
+- Trick Room
+- Helping Hand
+- Follow Me
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 1 Def / 30 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Weather Ball
+- Hurricane
+- Tailwind
+- Wide Guard
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 30 HP / 2 Def / 5 SpA / 19 SpD / 10 Spe
+Bold Nature
+- Dragon Pulse
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 22 HP / 21 Atk / 3 Def / 20 SpD
+Adamant Nature
+- First Impression
+- U-turn
+- Iron Head
+- Liquidation
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 16 HP / 32 Atk / 18 Spe
+Jolly Nature
+- Close Combat
+- Acrobatics
+- Fake Out
+- Protect
+
+### MC41
+name: Shuuka's Salamence Kingambit Team
+author: shuuka_poke
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 3 HP / 31 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Flamethrower
+- Tailwind
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 1 HP / 30 Def / 20 SpA / 15 Spe
+Modest Nature
+- Hyper Voice
+- Hyper Beam
+- Quick Attack
+- Detect
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Low Kick
+- Sucker Punch
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 18 Atk / 2 Def / 15 SpD / 27 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 19 Def / 15 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 25 SpD / 9 Spe
+Adamant Nature
+- Wood Hammer
+- Low Kick
+- Grassy Glide
+- Fake Out
+
+### MC40
+name: BTrickroomZ's Raichu-Y Baxcalibur Team
+author: btrickroomz
+event: Video
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 21 HP / 16 Atk / 3 Def / 26 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Spear
+- Ice Shard
+- Protect
+
+Raichu @ Raichunite Y
+Ability: Lightning Rod
+Level: 50
+EVs: 25 HP / 11 Def / 2 SpA / 28 Spe
+Timid Nature
+- Zap Cannon
+- Focus Blast
+- Fake Out
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 3 Atk / 3 Def / 29 SpD
+Adamant Nature
+- Flare Blitz
+- Extreme Speed
+- Howl
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 29 Atk / 2 Def / 2 SpD / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Low Kick
+- Iron Head
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Poison Jab
+- Fake Out
+- Coaching
+
+### MC39
+name: BrokenLegge's Delphox Gravity Team
+author: brokenlegge
+
+Indeedee (M) @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Expanding Force
+- Trick
+- Protect
+- Gravity
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Gunk Shot
+- Fake Out
+- Close Combat
+- Coaching
+
+Corviknight @ Psychic Seed
+Ability: Mirror Armor
+Level: 50
+EVs: 31 HP / 11 Atk / 1 Def / 15 SpD / 8 Spe
+Careful Nature
+- Bulk Up
+- Power Trip
+- Roost
+- Brave Bird
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Expanding Force
+- Protect
+- Focus Blast
+
+Excadrill @ Focus Sash
+Ability: Mold Breaker
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Swords Dance
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Knock Off
+- Rock Slide
+- Low Kick
+- Protect
+
+### MC38
+name: danyul_yt's Garchomp-Z Torterra Team
+author: danyul_yt
+
+Garchomp @ Garchompite Z
+Ability: Rough Skin
+Level: 50
+EVs: 18 HP / 32 SpA / 16 Spe
+Timid Nature
+- Protect
+- Draco Meteor
+- Flamethrower
+- Power Gem
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Protect
+- Fake Out
+- Poison Jab
+- Close Combat
+
+Torterra @ Life Orb
+Ability: Overgrow
+Level: 50
+EVs: 32 HP / 11 Atk / 15 Def / 8 Spe
+Adamant Nature
+- Wood Hammer
+- Headlong Rush
+- Earthquake
+- Wide Guard
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Protect
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+
+Rotom-Heat @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 32 HP / 17 Def / 17 SpA
+Bold Nature
+- Overheat
+- Thunderbolt
+- Electroweb
+- Will-O-Wisp
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 32 HP / 2 Def / 32 Spe
+Timid Nature
+- Protect
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+### MC37
+name: gio_kuma's Salamence Lucario-Z Team
+author: gio_kuma
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Protect
+- Draco Meteor
+- Tailwind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 6 Atk / 7 Def / 12 SpD / 9 Spe
+Adamant Nature
+- U-turn
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+
+Lucario @ Lucarionite Z
+Ability: Inner Focus
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Aura Sphere
+- Steel Beam
+- Protect
+- Flash Cannon
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 7 Atk / 10 Def / 10 SpD / 7 Spe
+Adamant Nature
+- Fake Out
+- Throat Chop
+- Flare Blitz
+- Parting Shot
+
+Basculegion (M) @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 SpD / 32 Spe
+Adamant Nature
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 13 HP / 22 Def / 23 SpA / 8 Spe
+Modest Nature
+- Hyper Voice
+- Quick Attack
+- Hyper Beam
+- Detect
+
+### MC36
+name: ragimali's Salamence Kingambit Team
+author: ragimali
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 30 HP / 5 Atk / 1 Def / 4 SpD / 26 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grass Knot
+- U-turn
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 15 HP / 18 Atk / 1 SpD / 32 Spe
+Hasty Nature
+- Protect
+- Tailwind
+- Double-Edge
+- Hyper Voice
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 Spe
+Adamant Nature
+- Sucker Punch
+- Swords Dance
+- Protect
+- Kowtow Cleave
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 21 HP / 1 Atk / 12 Def / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Swords Dance
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 10 Def / 11 SpD / 13 Spe
+Impish Nature
+- Throat Chop
+- Flare Blitz
+- Fake Out
+- Parting Shot
+
+Basculegion (M) @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Protect
+- Liquidation
+- Last Respects
+- Aqua Jet
+
+### MC35
+name: tempo777's Salamence Floette Team
+author: tempo777
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 18 HP / 25 Atk / 20 SpD / 3 Spe
+Adamant Nature
+- Fake Out
+- U-turn
+- Wood Hammer
+- Grassy Glide
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 28 HP / 20 Def / 15 SpA / 3 Spe
+Modest Nature
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 24 HP / 10 Def / 27 SpD / 5 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Make It Rain
+- Nasty Plot
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Hyper Voice
+- Draco Meteor
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Rock Slide
+- Dire Claw
+
+### MC34
+name: pab's Salamence Floette Team
+author: pablogh651
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 18 Atk / 16 SpA / 32 Spe
+Hasty Nature
+- Double-Edge
+- Tailwind
+- Hyper Voice
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 26 Atk / 12 Def / 3 SpD / 21 Spe
+Adamant Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 32 HP / 15 Def / 19 Spe
+Timid Nature
+- Protect
+- Calm Mind
+- Draining Kiss
+- Dazzling Gleam
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+- U-turn
+
+### MC33
+name: Desu's Gardevoir Volcarona Team
+author: desuvgc
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 4 HP / 28 Def / 15 SpA / 19 Spe
+Modest Nature
+- Hyper Voice
+- Protect
+- Expanding Force
+- Encore
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+EVs: 31 HP / 27 Def / 5 SpA / 3 Spe
+Bold Nature
+- Overheat
+- Struggle Bug
+- Protect
+- Rage Powder
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 31 HP / 32 Def / 3 SpD
+Bold Nature
+- Follow Me
+- Helping Hand
+- Trick Room
+- Terrain Pulse
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Dire Claw
+- Rock Tomb
+- Close Combat
+- Protect
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+
+Aerodactyl @ Focus Sash
+Ability: Unnerve
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Protect
+- Tailwind
+
+### MC32
+name: Owen's Salamence Sand Team
+author: og_albina
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 30 Atk / 7 SpA / 29 Spe
+Naive Nature
+- Double-Edge
+- Hyper Voice
+- Tailwind
+- Protect
+
+Indeedee (M) @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Psychic
+- Dazzling Gleam
+- Trick
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 30 HP / 21 Atk / 15 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Protect
+- Swords Dance
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Protect
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 27 HP / 26 Atk / 1 Def / 12 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+### MC31
+name: Ling's Gardevoir Charizard-Y Team
+author: yukirinli0724j0
+
+Gardevoir @ Gardevoirite
+Ability: Telepathy
+Level: 50
+EVs: 30 HP / 20 Def / 15 SpA / 1 SpD
+Quiet Nature
+- Hyper Voice
+- Expanding Force
+- Trick Room
+- Protect
+
+Indeedee-F (F) @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Sassy Nature
+- Psychic
+- Trick Room
+- Helping Hand
+- Follow Me
+
+Incineroar @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 29 HP / 32 Atk / 5 SpD
+Brave Nature
+- Flare Blitz
+- Darkest Lariat
+- Close Combat
+- Fake Out
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 30 HP / 32 SpA / 4 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Earth Power
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 10 HP / 20 Atk / 3 Def / 1 SpD / 32 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Stomping Tantrum
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+Level: 50
+EVs: 4 HP / 23 Def / 11 SpA / 28 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+### MC30
+name: Emir's Golisopod Kommo-o Team
+author: emirnent
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- First Impression
+- Iron Head
+- U-turn
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 15 Atk / 6 SpD / 13 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Kommo-o @ Leftovers
+Ability: Soundproof
+Level: 50
+EVs: 21 HP / 1 Def / 20 SpA / 1 SpD / 23 Spe
+Modest Nature
+- Clanging Scales
+- Aura Sphere
+- Clangorous Soul
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 13 Def / 10 SpD / 11 Spe
+Careful Nature
+- Flare Blitz
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Aqua Jet
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 32 HP / 29 Def / 5 SpA
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+### MC29
+name: cona's Staraptor Armarouge Team
+author: cona_5757
+
+Indeedee-F (F) @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Terrain Pulse
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 9 HP / 32 SpA / 25 Spe
+Modest Nature
+- Heat Wave
+- Expanding Force
+- Dark Pulse
+- Protect
+
+Staraptor @ Staraptite
+Ability: Intimidate
+Level: 50
+EVs: 19 HP / 15 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Tailwind
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 5 HP / 12 Atk / 17 Def / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Protect
+
+Basculegion (M) @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Drill Run
+- Protect
+
+### MC28
+name: beebee10222's Golisopod Indeedee-F Team
+author: beebee10222
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 25 HP / 32 Atk / 5 Def / 4 SpD
+Brave Nature
+- Throat Chop
+- Iron Head
+- Close Combat
+- Leech Life
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 24 HP / 1 Def / 25 SpA / 15 SpD / 1 Spe
+Modest Nature
+- U-turn
+- Weather Ball
+- Hurricane
+- Ice Beam
+
+Indeedee-F (F) @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 30 HP / 25 Def / 3 SpA / 8 SpD
+Relaxed Nature
+- Psychic
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Spiky Shield
+- Power Gem
+- Earth Power
+- Sludge Bomb
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 23 Atk / 25 Def / 18 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Last Respects
+- Aqua Jet
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 1 Def / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Dark Pulse
+- Snarl
+- Draco Meteor
+- Earth Power
+
+### MC27
+name: Argos' Golisopod Salazzle Team
+author: riccardoggo
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Def
+Adamant Nature
+- First Impression
+- X-Scissor
+- Iron Head
+- Protect
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 Atk / 32 Def / 2 SpD
+Adamant Nature
+- Grassy Glide
+- High Horsepower
+- Fake Out
+- Protect
+
+Salazzle (F) @ Charcoal
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 Def / 32 SpA
+Timid Nature
+- Flamethrower
+- Sludge Bomb
+- Fake Out
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 Def / 32 SpA / 2 SpD
+Modest Nature
+- Muddy Water
+- Ice Beam
+- Life Dew
+- Protect
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Draco Meteor
+- Dark Pulse
+- Flash Cannon
+- Flamethrower
+
+Ninetales-Alola @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blizzard
+- Aurora Veil
+- Helping Hand
+- Protect
+
+### MC26
+name: Tsuyu's Floette Gholdengo Team
+author: tsuyuvgc
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 18 HP / 25 Atk / 20 SpD / 3 Spe
+Adamant Nature
+- Fake Out
+- U-turn
+- Wood Hammer
+- Grassy Glide
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 28 HP / 20 Def / 15 SpA / 3 Spe
+Modest Nature
+- Draining Kiss
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 24 HP / 10 Def / 27 SpD / 5 Spe
+Impish Nature
+- Fake Out
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Shadow Ball
+- Make It Rain
+- Nasty Plot
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Tailwind
+- Hyper Voice
+- Draco Meteor
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- Rock Slide
+- Dire Claw
+
+### MC25
+name: homura_kurenai_'s Salamence Basculegion Team
+author: homura_kurenai_
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Naive Nature
+- Double-Edge
+- Hyper Voice
+- Tailwind
+- Protect
+
+Incineroar @ Bright Powder
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Darkest Lariat
+- Fake Out
+- Parting Shot
+
+Kingambit @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 Spe
+Adamant Nature
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Flip Turn
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 28 HP / 1 Def / 5 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 21 HP / 5 Atk / 1 Def / 32 SpD / 7 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Low Kick
+- Fake Out
+
+### MC24
+name: U_DonPM's Armarouge Indeedee-F Team
+author: don70016112
+
+Armarouge @ Focus Sash
+Ability: Weak Armor
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Armor Cannon
+- Aura Sphere
+- Protect
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 30 HP / 19 Def / 17 SpD
+Bold Nature
+- Psychic
+- Follow Me
+- Helping Hand
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 20 HP / 10 Atk / 19 Def / 17 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Dire Claw
+- Feint
+
+Excadrill @ Life Orb
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- High Horsepower
+- Earthquake
+- Iron Head
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 22 HP / 16 Atk / 28 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+### MC23
+name: Uch's Salamence Gholdengo Team
+author: mokomokouch
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 16 Atk / 17 SpD / 1 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 21 HP / 13 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Dire Claw
+- Close Combat
+- Feint
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 31 HP / 1 Atk / 25 Def / 5 SpD / 4 Spe
+Impish Nature
+- Flare Blitz
+- Darkest Lariat
+- Fake Out
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+EVs: 17 HP / 17 SpA / 32 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 16 HP / 25 SpA / 25 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+### MC22
+name: PiyoLily145's Golisopod Rillaboom Team
+author: piyolily145
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 18 HP / 32 Atk / 3 Def / 12 SpD / 1 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- First Impression
+- Leech Life
+- Close Combat
+- Iron Head
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Incineroar @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 10 Def / 10 SpD / 13 Spe
+Impish Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 18 HP / 20 Def / 23 SpD / 5 Spe
+Calm Nature
+- Psychic
+- Trick Room
+- Helping Hand
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 6 HP / 18 Atk / 29 Def / 1 SpD / 12 Spe
+Adamant Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Protect
+
+### MC21
+name: gravity030's Salamence Delphox Team
+author: gravity030
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 Def / 32 Spe
+Jolly Nature
+- Double-Edge
+- Dragon Claw
+- Temper Flare
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Low Kick
+- Iron Head
+
+Glimmora @ Focus Sash
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Sludge Bomb
+- Earth Power
+- Spiky Shield
+
+Whimsicott @ Life Orb
+Ability: Prankster
+Level: 50
+EVs: 32 SpA / 2 SpD / 32 Spe
+Modest Nature
+- Tailwind
+- Moonblast
+- Light Screen
+- Protect
+
+Delphox @ Delphoxite
+Ability: Blaze
+Level: 50
+EVs: 1 HP / 2 Def / 31 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Psychic
+- Encore
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 6 HP / 28 Atk / 32 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Stomping Tantrum
+
+### MC20
+name: WyatVGC's Salamence Kingambit Team
+author: wyatvgc
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 9 HP / 25 Atk / 32 SpD
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Low Kick
+- Sucker Punch
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 32 Atk / 2 SpA / 32 Spe
+Hasty Nature
+- Double-Edge
+- Hyper Voice
+- Tailwind
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 5 Atk / 27 SpD / 2 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Swords Dance
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 4 Def / 30 SpD
+Sassy Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 32 HP / 12 Def / 5 SpA / 17 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+### MC19
+name: indigo_telecas' Charizard-Y Sylveon Team
+author: indigo_telecas
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 12 HP / 14 Def / 8 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Solar Beam
+- Protect
+
+Basculegion (M) @ Focus Sash
+Ability: Adaptability
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 30 SpA / 32 Spe
+Modest Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 5 Atk / 10 Def / 16 SpD / 3 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Sylveon @ Fairy Feather
+Ability: Pixilate
+Level: 50
+EVs: 30 HP / 20 Def / 10 SpA / 6 Spe
+Modest Nature
+- Hyper Voice
+- Quick Attack
+- Yawn
+- Detect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 17 Atk / 32 Def / 15 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+### MC18
+name: Elise's Salamence Rillaboom Team
+author: eripompudding
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 16 HP / 20 SpA / 30 Spe
+Modest Nature
+- Hyper Voice
+- Flamethrower
+- Tailwind
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 28 HP / 1 Def / 5 SpA / 32 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 18 Atk / 1 Def / 15 SpD / 28 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 32 HP / 3 Atk / 11 Def / 13 SpD / 6 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Rock Slide
+- Swords Dance
+
+Rillaboom @ Occa Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 15 Atk / 13 SpD / 6 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 6 SpD / 14 Spe
+Impish Nature
+- Flare Blitz
+- Throat Chop
+- Fake Out
+- Parting Shot
+
+### MC17
+name: Apex__Dragon's Floette Rillaboom Team
+author: apex__dragon
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 13 HP / 21 SpA / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Heat Wave
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 17 Atk / 17 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 22 HP / 4 Def / 20 SpA / 20 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 18 Atk / 4 Def / 15 SpD / 25 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Kingambit @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+### MC16
+name: rioreumi's Salamence Torkoal Team
+author: rioreumi
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 2 SpA / 32 SpD
+Modest Nature
+- Hyper Voice
+- Heat Wave
+- Roost
+- Tailwind
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Iron Head
+- Close Combat
+- Leech Life
+- Aqua Jet
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Poison Jab
+- Rock Slide
+- Fake Out
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 19 HP / 20 Def / 10 SpA / 17 SpD
+Modest Nature
+- Psychic
+- Thunderbolt
+- Trick Room
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Heat Wave
+- Weather Ball
+- Protect
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+EVs: 24 HP / 32 Atk / 10 Spe
+Adamant Nature
+- Drum Beating
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+### MC15
+name: metalderk's Baxcalibur Golisopod Team
+author: derkpkmn
+
+Farigiraf @ Colbur Berry
+Ability: Armor Tail
+Level: 50
+EVs: 25 HP / 26 Def / 15 SpD
+Bold Nature
+- Twin Beam
+- Thunderbolt
+- Trick Room
+- Protect
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Sucker Punch
+- Leech Life
+- Aqua Jet
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 12 HP / 32 Atk / 4 SpD / 18 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Quick Guard
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 8 Atk / 11 Def / 12 SpD / 3 Spe
+Careful Nature
+- Fake Out
+- Will-O-Wisp
+- Throat Chop
+- Parting Shot
+
+Pelipper @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 2 Def / 5 SpA / 16 SpD / 12 Spe
+Modest Nature
+- Wide Guard
+- Tailwind
+- Hurricane
+- Weather Ball
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 32 HP / 32 Atk / 1 SpD / 1 Spe
+Adamant Nature
+- Glaive Rush
+- Icicle Crash
+- Protect
+- Ice Shard
+
+### MC14
+name: Sahil's Golisopod Charizard-Y Team
+author: shaikhvgc786
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 SpD
+Brave Nature
+- Leech Life
+- Rock Slide
+- Iron Head
+- Wide Guard
+
+Indeedee-F (F) @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 1 SpD
+Bold Nature
+- Psychic
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Heat Wave
+- Eruption
+- Protect
+- Earth Power
+
+Charizard @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 32 HP / 27 Def / 1 SpA / 6 Spe
+Modest Nature
+- Heat Wave
+- Weather Ball
+- Solar Beam
+- Protect
+
+Hatterene (F) @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+EVs: 27 HP / 27 Def / 12 SpD
+Quiet Nature
+- Expanding Force
+- Trick Room
+- Nasty Plot
+- Hyper Voice
+
+### MC13
+name: Elm's Baxcalibur Floette Team
+author: elm_motochika
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 9 HP / 31 Atk / 26 Spe
+Adamant Nature
+- Ice Shard
+- Protect
+- Swords Dance
+- Glaive Rush
+
+Rillaboom @ Sitrus Berry
+Ability: Grassy Surge
+Level: 50
+EVs: 31 HP / 5 Atk / 24 SpD / 6 Spe
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Fake Out
+- Grassy Glide
+
+Incineroar @ Chople Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 13 Def / 20 SpD
+Careful Nature
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Throat Chop
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Dire Claw
+- Protect
+- Acrobatics
+- Close Combat
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 4 HP / 14 Def / 26 SpA / 22 Spe
+Timid Nature
+- Moonblast
+- Protect
+- Dazzling Gleam
+- Light of Ruin
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 18 Atk / 14 Def / 32 Spe
+Adamant Nature
+- Wave Crash
+- Protect
+- Aqua Jet
+- Last Respects
+
+### MC12
+name: Xena's Gardevoir Typhlosion-Hisui Team
+author: Xenagaming248
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 9 Def / 25 SpA
+Modest Nature
+- Hyper Voice
+- Expanding Force
+- Trick Room
+- Protect
+
+Indeedee-F (F) @ Wide Lens
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Bold Nature
+- Trick Room
+- Follow Me
+- Helping Hand
+- Sing
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Dire Claw
+- Close Combat
+- Rock Slide
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Eruption
+- Helping Hand
+- Weather Ball
+- Protect
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Eruption
+- Heat Wave
+- Shadow Ball
+- Overheat
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpA / 32 Spe
+Naive Nature
+- Double-Edge
+- Tailwind
+- Hyper Voice
+- Protect
+
+### MC11
+name: Panda's Salamence Tailwind Team
+author: unironicpanda
+event: Video
+
+Salamence-Mega @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Hasty Nature
+- Tailwind
+- Hyper Voice
+- Double-Edge
+- Protect
+
+Sneasler (M) @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Feint
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 18 Atk / 4 Def / 15 SpD / 25 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Kingambit (M) @ Chople Berry
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 15 Atk / 19 SpD
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Low Kick
+- Iron Head
+
+Garchomp (F) @ Choice Scarf
+Ability: Rough Skin
+Level: 50
+EVs: 10 HP / 20 Atk / 9 Def / 27 Spe
+Adamant Nature
+- Dragon Claw
+- Stomping Tantrum
+- Earthquake
+- Rock Slide
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 4 HP / 8 Def / 32 SpA / 22 Spe
+Timid Nature
+- Moonblast
+- Dazzling Gleam
+- Light of Ruin
+- Protect
+
+### MC10
+name: Panda's Terrain Pulse Blastoise Team
+author: unironicpanda
+event: Video
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 32 HP / 24 Atk / 1 Def / 1 SpD / 8 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dire Claw
+- Rock Tomb
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 10 HP / 23 Def / 1 SpA / 32 Spe
+Timid Nature
+- Dazzling Gleam
+- Draining Kiss
+- Protect
+- Calm Mind
+
+Blastoise-Mega @ Blastoisinite
+Ability: Mega Launcher
+Level: 50
+EVs: 22 HP / 25 SpA / 19 Spe
+Modest Nature
+- Shell Smash
+- Terrain Pulse
+- Water Spout
+- Protect
+
+Indeedee-F (F) @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Psychic
+- Helping Hand
+- Trick Room
+
+### MC9
+name: Panda's Coaching Baxcalibur Team
+author: unironicpanda
+event: Video
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 14 HP / 32 Atk / 1 Def / 1 SpD / 18 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 32 HP / 32 Atk / 1 Def / 1 Spe
+Adamant Nature
+- Swords Dance
+- Kowtow Cleave
+- Sucker Punch
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Naive Nature
+- Fake Out
+- Close Combat
+- Dire Claw
+- Coaching
+
+Baxcalibur-Mega @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 32 HP / 16 Atk / 1 Def / 4 SpD / 13 Spe
+Adamant Nature
+- Scale Shot
+- Icicle Crash
+- Ice Shard
+- Protect
+
+Froslass-Mega (F) @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 25 HP / 14 SpD / 27 Spe
+Timid Nature
+- Blizzard
+- Aurora Veil
+- Shadow Ball
+- Protect
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 28 Atk / 13 Def / 21 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+### MC8
+name: Panda's Hatterene Trick Room Team
+author: unironicpanda
+event: Video
+
+Incineroar @ White Herb
+Ability: Intimidate
+EVs: 32 HP / 31 Atk / 3 Def
+Brave Nature
+- Flare Blitz
+- Darkest Lariat
+- Close Combat
+- Fake Out
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Shiny: Yes
+EVs: 27 HP / 7 Def / 32 SpA
+Quiet Nature
+- Expanding Force
+- Trick Room
+- Dazzling Gleam
+- Protect
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+EVs: 29 HP / 3 Def / 2 SpA / 32 SpD
+Modest Nature
+- Expanding Force
+- Trick Room
+- Thunderbolt
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Shiny: Yes
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Earth Power
+- Protect
+
+Indeedee-F (F) @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Terrain Pulse
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 22 HP / 16 Def / 11 SpA / 17 Spe
+Modest Nature
+- Heat Wave
+- Overheat
+- Solar Beam
+- Protect
+
+### MC7
+name: Panda's Gardevoir Psyspam Team
+author: unironicpanda
+event: Video
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Helping Hand
+- Trick Room
+- Imprison
+
+Gardevoir-Mega @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 32 HP / 23 SpA / 11 Spe
+Modest Nature
+- Hyper Voice
+- Thunderbolt
+- Expanding Force
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Gunk Shot
+- Throat Chop
+- Rock Tomb
+
+Venusaur @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Leaf Storm
+- Sludge Bomb
+- Sleep Powder
+- Protect
+
+Charizard (F) @ Charizardite Y
+Ability: Blaze
+Level: 50
+EVs: 12 HP / 14 Def / 8 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Weather Ball
+- Ancient Power
+- Protect
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flip Turn
+- Last Respects
+- Wave Crash
+- Aqua Jet
+
+### MC6
+name: Panda's Psyspam Sand Team
+author: unironicpanda
+event: Video
+
+Indeedee (M) @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Expanding Force
+- Dazzling Gleam
+- Trick
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Acrobatics
+- Protect
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 22 HP / 16 Atk / 7 Def / 21 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Earthquake
+- Iron Head
+- Protect
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 19 HP / 11 Atk / 5 Def / 5 SpD / 26 Spe
+Careful Nature
+- Brave Bird
+- Roost
+- Bulk Up
+- Tailwind
+
+Hydreigon @ Haban Berry
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 1 Def / 32 SpA / 1 SpD / 28 Spe
+Timid Nature
+- Dark Pulse
+- Snarl
+- Draco Meteor
+- Protect
+
+### MC5
+name: koyuki's Salamence Sneasler Team
+author: yuki_pkmon
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 1 HP / 32 SpA / 1 SpD / 32 Spe
+Timid Nature
+- Hyper Voice
+- Draco Meteor
+- Tailwind
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 20 HP / 32 Atk / 14 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 21 Def / 11 SpD / 2 Spe
+Impish Nature
+- Flare Blitz
+- Throat Chop
+- Parting Shot
+- Fake Out
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 8 HP / 6 Atk / 32 Def / 20 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Poison Jab
+- Close Combat
+- Fake Out
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 20 Def / 12 SpA / 32 Spe
+Modest Nature
+- Dazzling Gleam
+- Light of Ruin
+- Moonblast
+- Protect
+
+### MC4
+name: Kurotama's Golisopod Tyranitar Team
+author: bale_tottenham
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 25 Atk / 9 SpD
+Adamant Nature
+- Leech Life
+- Iron Head
+- Sucker Punch
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 1 Atk / 16 Def / 10 SpD / 7 Spe
+Impish Nature
+- Flare Blitz
+- Darkest Lariat
+- Fake Out
+- Parting Shot
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 25 HP / 16 Atk / 25 Spe
+Adamant Nature
+- Rock Slide
+- Knock Off
+- Dragon Dance
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 20 HP / 31 Def / 15 Spe
+Adamant Nature
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect
+
+Sinistcha @ Colbur Berry
+Ability: Hospitality
+Level: 50
+EVs: 29 HP / 4 Def / 32 SpD / 1 Spe
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Protect
+
+Milotic @ Leftovers
+Ability: Competitive
+Level: 50
+EVs: 32 HP / 22 Def / 10 SpA / 2 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Recover
+- Protect
+
+### MC3
+name: ausma's Golisopod Rain Team
+author: ausmacon
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Swords Dance
+- Aqua Jet
+- Leech Life
+- Protect
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 7 HP / 32 Atk / 27 Spe
+Jolly Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+
+Lycanroc-Dusk @ Focus Sash
+Ability: Tough Claws
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Close Combat
+- Accelerock
+- Protect
+
+Archaludon @ Leftovers
+Ability: Stamina
+Level: 50
+EVs: 32 HP / 2 SpA / 28 SpD / 4 Spe
+Modest Nature
+- Electro Shot
+- Flash Cannon
+- Dragon Pulse
+- Protect
+
+Politoed @ Sitrus Berry
+Ability: Drizzle
+Level: 50
+EVs: 31 HP / 23 Def / 12 SpD
+Calm Nature
+- Weather Ball
+- Ice Beam
+- Helping Hand
+- Protect
+
+Sinistcha @ Kasib Berry
+Ability: Hospitality
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Bold Nature
+- Matcha Gotcha
+- Life Dew
+- Trick Room
+- Rage Powder
+
+### MC2
+name: garganaci's Salamence Floette Team
+author: garganaci
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 18 Atk / 16 SpA / 32 Spe
+Hasty Nature
+- Double-Edge
+- Hyper Voice
+- Tailwind
+- Protect
+
+Floette-Eternal (F) @ Floettite
+Ability: Flower Veil
+Level: 50
+EVs: 27 HP / 20 Def / 15 SpA / 4 Spe
+Modest Nature
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+EVs: 17 HP / 25 Atk / 15 SpD / 9 Spe
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Protect
+
+Kingambit @ Focus Sash
+Ability: Defiant
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Swords Dance
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+EVs: 20 HP / 30 Atk / 1 Def / 15 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Dire Claw
+- Rock Slide
+
+Basculegion (M) @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 6 HP / 18 Atk / 32 Def / 10 Spe
+Adamant Nature
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+### MC1
+name: Shmon's Gardevoir Gallade Team
+author: shmonstah
+
+Indeedee-F (F) @ Colbur Berry
+Ability: Psychic Surge
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Relaxed Nature
+- Follow Me
+- Terrain Pulse
+- Helping Hand
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD
+Quiet Nature
+- Heat Wave
+- Eruption
+- Weather Ball
+- Protect
+
+Hatterene (F) @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 32 SpA
+Quiet Nature
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Protect
+
+Gallade (M) @ White Herb
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Sacred Sword
+- Trick Room
+- Psycho Cut
+- Wide Guard
+
+Basculegion (M) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 30 Atk / 32 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Flip Turn
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+Level: 50
+EVs: 12 HP / 3 Def / 25 SpA / 1 SpD / 25 Spe
+Modest Nature
+- Expanding Force
+- Aura Sphere
+- Protect
+- Hyper Voice
+
 ### MB358
 name: JoeUX9's St. Jude VGC Charity Tournament Champion Team
 author: joeux9
