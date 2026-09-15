@@ -669,5 +669,95 @@
         "sp": 32
       }
     }
+  },
+  "Drampa": {
+    "Trick Room Attacker": {
+      "ability": "Cloud Nine",
+      "item": "Drampanite",
+      "nature": "Modest",
+      "moves": [
+        "Hyper Voice",
+        "Earth Power",
+        "Calm Mind",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 8,
+        "sa": 25,
+        "sd": 1
+      }
+    }
+  },
+  "Eelektross": {
+    "Discharge Mega by CybertronVGC": {
+      "ability": "Levitate",
+      "item": "Eelektrossite",
+      "nature": "Modest",
+      "moves": [
+        "Thunder",
+        "Discharge",
+        "Grass Knot",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "sa": 32,
+        "sp": 2
+      }
+    }
+  },
+  "Espathra": {
+    "Baton Pass Support": {
+      "ability": "Speed Boost",
+      "item": "Sitrus Berry",
+      "nature": "Timid",
+      "moves": [
+        "Lumina Crash",
+        "Baton Pass",
+        "Calm Mind",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 9,
+        "sd": 6,
+        "sp": 19
+      }
+    }
+  },
+  "Excadrill": {
+    "Sand Attacker": {
+      "ability": "Sand Rush",
+      "item": "Focus Sash",
+      "nature": "Adamant",
+      "moves": [
+        "Earthquake",
+        "Iron Head",
+        "Rock Slide",
+        "Protect"
+      ],
+      "sps": {
+        "at": 32,
+        "df": 2,
+        "sp": 32
+      }
+    },
+    "Attacker Mega": {
+      "ability": "Sand Rush",
+      "item": "Excadrite",
+      "nature": "Jolly",
+      "moves": [
+        "Earthquake",
+        "Iron Head",
+        "Rock Slide",
+        "Protect"
+      ],
+      "sps": {
+        "at": 32,
+        "df": 2,
+        "sp": 32
+      }
+    }
   }
 }
