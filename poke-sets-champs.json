@@ -1,0 +1,673 @@
+{
+  "Absol":{
+    "Fast Support Mega Z":{
+      "ability": "Justified",
+      "item": "Absolite Z",
+      "nature": "Jolly",
+      "moves": [
+        "Shadow Claw",
+        "Close Combat",
+        "Will-O-Wisp",
+        "Detect"
+      ],
+      "sps": {
+        "hp": 25,
+        "at": 1,
+        "df": 13,
+        "sd": 1,
+        "sp": 26
+      }
+    }
+  },
+  "Aegislash":{
+    "Spell Tag Physical Attacker":{
+      "ability": "Stance Change",
+      "item": "Spell Tag",
+      "nature": "Brave",
+      "moves": [
+        "Poltergeist",
+        "Shadow Sneak",
+        "Sacred Sword",
+        "King's Shield"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 10,
+        "df": 11,
+        "sd": 13
+      }
+    },
+    "Supportive Special Attacker":{
+      "ability": "Stance Change",
+      "item": "Leftovers",
+      "nature": "Quiet",
+      "moves": [
+        "Shadow Ball",
+        "Flash Cannon",
+        "Wide Guard",
+        "King's Shield"
+      ],
+      "sps": {
+        "hp": 32,
+        "sa": 32,
+        "sd": 2
+      }
+    }
+  },
+  "Aerodactyl":{
+    "Fast Tailwind Support":{
+      "ability": "Unnerve",
+      "item": "Focus Sash",
+      "nature": "Jolly",
+      "moves": [
+        "Rock Slide",
+        "Dual Wingbeat",
+        "Tailwind",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Offensive Mega":{
+      "ability": "Unnerve",
+      "item": "Aerodactylite",
+      "nature": "Jolly",
+      "moves": [
+        "Dual Wingbeat",
+        "Rock Slide",
+        "Ice Fang",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sd": 32
+      }
+    }
+  },
+  "Altaria":{
+    "Physical Sweeper by James Baek":{
+      "ability": "Cloud Nine",
+      "item": "Altarianite",
+      "nature": "Adamant",
+      "moves": [
+        "Double-Edge",
+        "Dragon Dance",
+        "Roost",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 9,
+        "at": 30,
+        "sp": 27
+      }
+    }
+  },
+  "Annihilape":{
+    "Sash Attacker":{
+      "ability": "Defiant",
+      "item": "Focus Sash",
+      "nature": "Jolly",
+      "moves": [
+        "Phantom Force",
+        "Close Combat",
+        "Rock Tomb",
+        "Protect"
+      ],
+      "sps": {
+        "at": 32,
+        "df": 1,
+        "sd": 1,
+        "sp": 32
+      },
+      "Bulk Up Attacker":{
+        "ability": "Defiant",
+        "item": "Leftovers",
+        "nature": "Adamant",
+        "moves": [
+          "Rage Fist",
+          "Drain Punch",
+          "Bulk Up",
+          "Protect"
+        ],
+        "sps": {
+          "hp": 24,
+          "at": 25,
+          "df": 8,
+          "sd": 7,
+          "sp": 2
+        }
+      }
+    },
+    "Scarf Attacker":{
+      "ability": "Defiant",
+      "item": "Choice Scarf",
+      "nature": "Adamant",
+      "moves": [
+        "Close Combat",
+        "Shadow Claw",
+        "U-turn",
+        "Ice Punch"
+      ],
+      "sps": {
+        "at": 32,
+        "df": 1,
+        "sd": 1,
+        "sp": 32
+      }
+    }
+  },
+  "Araquanid":{
+    "Sash Support by @Shinonome_Inae":{
+      "ability": "Water Bubble",
+      "item": "Focus Sash",
+      "nature": "Jolly",
+      "moves": [
+        "Liquidation",
+        "Icy Wind",
+        "Endeavor",
+        "Sticky Web"
+      ],
+      "sps": {
+        "hp": 16,
+        "at": 18,
+        "sp": 32
+      }
+    }
+  },
+  "Arcanine-Hisui":{
+    "Rock Head Attacker":{
+      "ability": "Rock Head",
+      "item": "Focus Sash",
+      "nature": "Jolly",
+      "moves": [
+        "Flare Blitz",
+        "Head Smash",
+        "Extreme Speed",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Archaludon":{
+    "Tanky Rain Attacker":{
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "nature": "Modest",
+      "moves": [
+        "Electro Shot",
+        "Dragon Pulse",
+        "Flash Cannon",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "sd": 26,
+        "sp": 8
+      }
+    },
+    "Sturdy All-Out Attack":{
+      "ability": "Sturdy",
+      "item": "White Herb",
+      "nature": "Modest",
+      "moves": [
+        "Draco Meteor",
+        "Thunderbolt",
+        "Flash Cannon",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Ariados":{
+    "Sitrus Support by FedeCampo":{
+      "ability": "Insomnia",
+      "item": "Sitrus Berry",
+      "nature": "Impish",
+      "moves": [
+        "Knock Off",
+        "Rage Powder",
+        "String Shot",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 31,
+        "df": 20,
+        "sd": 15
+      }
+    }
+  },
+  "Armarouge":{
+    "Psychic Terrain Attacker":{
+      "ability": "Flash Fire",
+      "item": "Life Orb",
+      "nature": "Quiet",
+      "moves": [
+        "Armor Cannon",
+        "Expanding Force",
+        "Trick Room",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 29,
+        "sa": 32,
+        "sd": 5
+      }
+    }
+  },
+  "Basculegion":{
+    "Scarf Attacker":{
+      "ability": "Adaptability",
+      "item": "Choice Scarf",
+      "nature": "Jolly",
+      "moves": [
+        "Last Respects",
+        "Wave Crash",
+        "Flip Turn",
+        "Aqua Jet"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Sash Attacker":{
+      "ability": "Adaptability",
+      "item": "Focus Sash",
+      "nature": "Adamant",
+      "moves": [
+        "Last Respects",
+        "Liquidation",
+        "Aqua Jet",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Tanky Sitrus by shinde_klefki":{
+      "ability": "Adaptability",
+      "item": "Sitrus Berry",
+      "nature": "Adamant",
+      "moves": [
+        "Last Respects",
+        "Liquidation",
+        "Aqua Jet",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 6,
+        "at": 8,
+        "df": 11,
+        "sd": 23,
+        "sp": 18
+      }
+    },
+    "Life Orb Attacker":{
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "nature": "Adamant",
+      "moves": [
+        "Last Respects",
+        "Wave Crash",
+        "Aqua Jet",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Baxcalibur":{
+    "Mega Attacker":{
+      "ability": "Thermal Exchange",
+      "item": "Baxcalibrite",
+      "nature": "Adamant",
+      "moves": [
+        "Glaive Rush",
+        "Ice Shard",
+        "High HorsePower",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 2,
+        "sp": 32
+      }
+    }
+  },
+  "Blastoise":{
+    "Trick Room Mega":{
+      "ability": "Rain Dish",
+      "item": "Blastoisinite",
+      "nature": "Quiet",
+      "moves": [
+        "Water Spout",
+        "Dark Pulse",
+        "Fake Out",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "sa": 32,
+        "sd": 2
+      }
+    },
+    "Shell Smash Attacker":{
+      "ability": "Rain Dish",
+      "item": "Blastoisinite",
+      "nature": "Modest",
+      "moves": [
+        "Water Spout",
+        "Dark Pulse",
+        "Shell Smash",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 1,
+        "df": 1,
+        "sa": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Blaziken":{
+    "Offensive Mega":{
+      "ability": "Speed Boost",
+      "item": "Blazikenite",
+      "nature": "Adamant",
+      "moves": [
+        "Flare Blitz",
+        "Close Combat",
+        "Rock Slide",
+        "Detect"
+      ],
+      "sps": {
+        "hp": 12,
+        "at": 20,
+        "sd": 4,
+        "sp": 30
+      }
+    },
+    "Coaching Support":{
+      "ability": "Speed Boost",
+      "item": "Focus Sash",
+      "nature": "Timid",
+      "moves": [
+        "Heat Wave",
+        "Aura Sphere",
+        "Coaching",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Camerupt":{
+    "Trick Room Mega":{
+      "ability": "Solid Rock",
+      "item": "Cameruptite",
+      "nature": "Quiet",
+      "moves": [
+        "Earth Power",
+        "Heat Wave",
+        "Ancient Power",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 2,
+        "sa": 32
+      }
+    }
+  },
+  "Ceruledge":{
+    "Tanky Bulk Up by Dawei Si":{
+      "ability": "Flash Fire",
+      "item": "Colbur Berry",
+      "nature": "Adamant",
+      "moves": [
+        "Bitter Blade",
+        "Shadow Sneak",
+        "Bulk Up",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 27,
+        "at": 20,
+        "df": 18,
+        "sd": 1
+      }
+    }
+  },
+  "Charizard": {
+    "Fast Attacker Mega Y": {
+      "ability": "Blaze",
+      "item": "Charizardite Y",
+      "nature": "Modest",
+      "moves": [
+        "Heat Wave",
+        "Weather Ball",
+        "Solar Beam",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    },
+    "Bulky Attacker Mega Y": {
+      "ability": "Blaze",
+      "item": "Charizardite Y",
+      "nature": "Modest",
+      "moves": [
+        "Heat Wave",
+        "Weather Ball",
+        "Solar Beam",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 24,
+        "df": 16,
+        "sa": 9,
+        "sp": 17
+      }
+    },
+    "Belly Drum Mega X": {
+      "ability": "Blaze",
+      "item": "Charizardite X",
+      "nature": "Jolly",
+      "moves": [
+        "Belly Drum",
+        "Flame Charge",
+        "Breaking Swipe",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 2,
+        "df": 8,
+        "sd": 8,
+        "sp": 16
+      }
+    }
+  },
+  "Corviknight": {
+    "Tanky Tailwind Support": {
+      "ability": "Mirror Armor",
+      "item": "Leftovers",
+      "nature": "Impish",
+      "moves": [
+        "Brave Bird",
+        "Body Press",
+        "Tailwind",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 32,
+        "sd": 2
+      }
+    },
+    "Tanky Sitrus": {
+      "ability": "Mirror Armor",
+      "item": "Sitrus Berry",
+      "nature": "Adamant",
+      "moves": [
+        "Brave Bird",
+        "Iron Head",
+        "Bulk Up",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 20,
+        "at": 24,
+        "df": 3,
+        "sd": 1,
+        "sp": 18
+      }
+    }
+  },
+  "Crabominable": {
+    "Trick Room Mega": {
+      "ability": "Hyper Cutter",
+      "item": "Crabominite",
+      "nature": "Brave",
+      "moves": [
+        "Ice Hammer",
+        "Drain Punch",
+        "Mach Punch",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 32,
+        "df": 2
+      }
+    }
+  },
+  "Delphox": {
+    "Offensive Mega": {
+      "ability": "Blaze",
+      "item": "Delphoxite",
+      "nature": "Timid",
+      "moves": [
+        "Heat Wave",
+        "Psychic",
+        "Substitute",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 1,
+        "sa": 31,
+        "sp": 32
+      }
+    }
+  },
+  "Dragalge": {
+    "Tanky Attacker": {
+      "ability": "Poison Point",
+      "item": "Dragalgite",
+      "nature": "Modest",
+      "moves": [
+        "Sludge Bomb",
+        "Dragon Pulse",
+        "Thunderbolt",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 6,
+        "sa": 28
+      }
+    }
+  },
+  "Dragapult": {
+    "Offensive Mega": {
+      "ability": "Blaze",
+      "item": "Delphoxite",
+      "nature": "Timid",
+      "moves": [
+        "Heat Wave",
+        "Psychic",
+        "Substitute",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 1,
+        "sa": 31,
+        "sp": 32
+      }
+    }
+  },
+  "Dragonite": {
+    "Special Attacker Mega by Takuma Yamazaki 2026 World Champ": {
+      "ability": "Multiscale",
+      "item": "Dragoninite",
+      "nature": "Modest",
+      "moves": [
+        "Dragon Pulse",
+        "Heat Wave",
+        "Extreme Speed",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    },
+    "Rain Attacker Mega": {
+      "ability": "Multiscale",
+      "item": "Dragoninite",
+      "nature": "Modest",
+      "moves": [
+        "Draco Meteor",
+        "Hurricane",
+        "Thunder",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    },
+    "Dragon Fang Physical Attacker": {
+      "ability": "Multiscale",
+      "item": "Dragon Fang",
+      "nature": "Adamant",
+      "moves": [
+        "Scale Shot",
+        "Extreme Speed",
+        "Low Kick",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    }
+  }
+}
