@@ -759,5 +759,699 @@
         "sp": 32
       }
     }
+  },
+  "Falinks": {
+    "Offensive Mega": {
+      "ability": "Defiant",
+      "item": "Falinksite",
+      "nature": "Adamant",
+      "moves": [
+        "Close Combat",
+        "Knock Off",
+        "No Retreat",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 22,
+        "at": 30,
+        "sp": 14
+      }
+    }
+  },
+  "Farigiraf": {
+    "Offensive Trick Room Setter": {
+      "ability": "Armor Tail",
+      "item": "Sitrus Berry",
+      "nature": "Quiet",
+      "moves": [
+        "Psychic",
+        "Thunderbolt",
+        "Trick Room",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 2,
+        "sa": 32
+      }
+    },
+    "Tanky Support": {
+      "ability": "Armor Tail",
+      "item": "Colbur Berry",
+      "nature": "Bold",
+      "moves": [
+        "Twin Beam",
+        "Helping Hand",
+        "Trick Room",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 22,
+        "sd": 12
+      }
+    }
+  },
+  "Floette": {
+    "Max Speed Fairy Attacker": {
+      "ability": "Flower Veil",
+      "item": "Floettite",
+      "nature": "Timid",
+      "moves": [
+        "Moonblast",
+        "Dazzling Gleam",
+        "Light of Ruin",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    },
+    "Calm Mind Setup Sweeper": {
+      "ability": "Flower Veil",
+      "item": "Floettite",
+      "nature": "Modest",
+      "moves": [
+        "Moonblast",
+        "Dazzling Gleam",
+        "Draining Kiss",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 26,
+        "sa": 25,
+        "sp": 13
+      }
+    }
+  },
+  "Froslass": {
+    "Bulkier Mega Attacker": {
+      "ability": "Cursed Body",
+      "item": "Froslassite",
+      "nature": "Modest",
+      "moves": [
+        "Blizzard",
+        "Shadow Ball",
+        "Aurora Veil",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 12,
+        "df": 1,
+        "sa": 20,
+        "sd": 1,
+        "sp": 32
+      }
+    }
+  },
+  "Gallade": {
+    "Mega Attacker by Ryota Otsubo": {
+      "ability": "Justified",
+      "item": "Galladite",
+      "nature": "Jolly",
+      "moves": [
+        "Drain Punch",
+        "Rock Slide",
+        "Shadow Sneak",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Hard Trick Room Attacker": {
+      "ability": "Sharpness",
+      "item": "Iron Ball",
+      "nature": "Brave",
+      "moves": [
+        "Sacred Sword",
+        "Psycho Cut",
+        "Leaf Blade",
+        "Trick Room"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 32,
+        "df": 2
+      }
+    }
+  },
+  "Garchomp": {
+    "Scarf Attacker": {
+      "ability": "Rough Skin",
+      "item": "Choice Scarf",
+      "nature": "Adamant",
+      "moves": [
+        "Earthquake",
+        "Dragon Claw",
+        "Rock Slide",
+        "Stomping Tantrum"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Tanky Sitrus Attacker by cona (Worlds 2026 2nd place)": {
+      "ability": "Rough Skin",
+      "item": "Sitrus Berry",
+      "nature": "Jolly",
+      "moves": [
+        "Earthquake",
+        "Dragon Claw",
+        "Rock Slide",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 21,
+        "at": 7,
+        "df": 6,
+        "sp": 32
+      }
+    },
+    "Life Orb Attacker": {
+      "ability": "Rough Skin",
+      "item": "Life Orb",
+      "nature": "Jolly",
+      "moves": [
+        "Earthquake",
+        "Dragon Claw",
+        "Rock Slide",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Scale Shot Attacker": {
+      "ability": "Rough Skin",
+      "item": "Dragon Fang",
+      "nature": "Adamant",
+      "moves": [
+        "Stomping Tantrum",
+        "Scale Shot",
+        "Rock Slide",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Balanced Mega": {
+      "ability": "Rough Skin",
+      "item": "Garchompite",
+      "nature": "Adamant",
+      "moves": [
+        "Earthquake",
+        "Dragon Claw",
+        "Rock Slide",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 22,
+        "at": 21,
+        "df": 3,
+        "sd": 1,
+        "sp": 19
+      }
+    },
+    "SpAttack Mega": {
+      "ability": "Rough Skin",
+      "item": "Garchompite",
+      "nature": "Modest",
+      "moves": [
+        "Draco Meteor",
+        "Earth Power",
+        "Power Gem",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 10,
+        "sa": 30,
+        "sp": 26
+      }
+    },
+    "Offensive Mega Z": {
+      "ability": "Rough Skin",
+      "item": "Garchompite Z",
+      "nature": "Timid",
+      "moves": [
+        "Draco Meteor",
+        "Flamethrower",
+        "Power Gem",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 8,
+        "df": 1,
+        "sa": 32,
+        "sp": 25
+      }
+    }
+  },
+  "Gardevoir": {
+    "Trick Room Attacker Mega": {
+      "ability": "Trace",
+      "item": "Gardevoirite",
+      "nature": "Modest",
+      "moves": [
+        "Hyper Voice",
+        "Psyshock",
+        "Expanding Force",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 2,
+        "sa": 32
+      }
+    },
+    "Balanced Mega Attacker": {
+      "ability": "Trace",
+      "item": "Gardevoirite",
+      "nature": "Modest",
+      "moves": [
+        "Hyper Voice",
+        "Expanding Force",
+        "Thunderbolt",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "sa": 23,
+        "sp": 11
+      }
+    }
+  },
+  "Gengar": {
+    "Mega Attacker": {
+      "ability": "Cursed Body",
+      "item": "Gengarite",
+      "nature": "Timid",
+      "moves": [
+        "Shadow Ball",
+        "Sludge Bomb",
+        "Icy Wind",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    },
+    "Perish Trap Mega": {
+      "ability": "Cursed Body",
+      "item": "Gengarite",
+      "nature": "Timid",
+      "moves": [
+        "Shadow Ball",
+        "Sludge Bomb",
+        "Perish Song",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 9,
+        "sa": 1,
+        "sd": 1,
+        "sp": 23
+      }
+    }
+  },
+  "Gholdengo": {
+    "Life Orb Attacker": {
+      "ability": "Good as Gold",
+      "item": "Life Orb",
+      "nature": "Modest",
+      "moves": [
+        "Make it Rain",
+        "Shadow Ball",
+        "Nasty Plot",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 7,
+        "sa": 27,
+        "sp": 32
+      }
+    },
+    "Scarf Attacker": {
+      "ability": "Good as Gold",
+      "item": "Choice Scarf",
+      "nature": "Timid",
+      "moves": [
+        "Shadow Ball",
+        "Make it Rain",
+        "Power Gem",
+        "Steel Beam"
+      ],
+      "sps": {
+        "hp": 1,
+        "sa": 32,
+        "sd": 1,
+        "sp": 32
+      }
+    }
+  },
+  "Glimmora": {
+    "Focus Sash Attacker": {
+      "ability": "Toxic Debris",
+      "item": "Focus Sash",
+      "nature": "Modest",
+      "moves": [
+        "Power Gem",
+        "Sludge Bomb",
+        "Energy Ball",
+        "Spiky Shield"
+      ],
+      "sps": {
+        "hp": 1,
+        "sa": 32,
+        "sd": 1,
+        "sp": 32
+      }
+    },
+    "Mega Attacker": {
+      "ability": "Toxic Debris",
+      "item": "Glimmoranite",
+      "nature": "Timid",
+      "moves": [
+        "Power Gem",
+        "Sludge Bomb",
+        "Earth Power",
+        "Spiky Shield"
+      ],
+      "sps": {
+        "hp": 15,
+        "df": 1,
+        "sa": 28,
+        "sd": 1,
+        "sp": 21
+      }
+    }
+  },
+  "Golisopod": {
+    "Trick Room Mega by CybertronVGC": {
+      "ability": "Emergency Exit",
+      "item": "Golisopite",
+      "nature": "Brave",
+      "moves": [
+        "Leech Life",
+        "Iron Head",
+        "First Impression",
+        "Liquidation"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 32,
+        "sd": 2
+      }
+    }
+  },
+  "Golurk": {
+    "Trick Room Mega": {
+      "ability": "No Guard",
+      "item": "Golurkite",
+      "nature": "Adamant",
+      "moves": [
+        "Earthquake",
+        "Poltergeist",
+        "Stone Edge",
+        "Headlong Rush"
+      ],
+      "sps": {
+        "hp": 27,
+        "at": 32,
+        "df": 7
+      }
+    }
+  },
+  "Grimmsnarl": {
+    "Screens Support": {
+      "ability": "Prankster",
+      "item": "Light Clay",
+      "nature": "Careful",
+      "moves": [
+        "Light Screen",
+        "Reflect",
+        "Spirit Break",
+        "Parting Shot"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 13,
+        "sd": 21
+      }
+    }
+  },
+  "Gyarados": {
+    "Dragon Dance Mega": {
+      "ability": "Intimidate",
+      "item": "Gyaradosite",
+      "nature": "Jolly",
+      "moves": [
+        "Dragon Dance",
+        "Waterfall",
+        "Lash Out",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    },
+    "Sitrus Support": {
+      "ability": "Intimidate",
+      "item": "Sitrus Berry",
+      "nature": "Adamant",
+      "moves": [
+        "Waterfall",
+        "Ice Fang",
+        "Taunt",
+        "Thunderwave"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 32,
+        "df": 2
+      }
+    }
+  },
+  "Hatterene": {
+    "Trick Room Attacker": {
+      "ability": "Magic Bounce",
+      "item": "Life Orb",
+      "nature": "Quiet",
+      "moves": [
+        "Trick Room",
+        "Dazzling Gleam",
+        "Expanding Force",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 2,
+        "sa": 32
+      }
+    }
+  },
+  "Hydreigon": {
+    "Scarf Attacker": {
+      "ability": "Levitate",
+      "item": "Choice Scarf",
+      "nature": "Modest",
+      "moves": [
+        "Draco Meteor",
+        "Dark Pulse",
+        "Flamethrower",
+        "Earth Power"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Incineroar": {
+    "Tanky Support": {
+      "ability": "Intimidate",
+      "item": "Sitrus Berry",
+      "nature": "Careful",
+      "moves": [
+        "Fake Out",
+        "Parting Shot",
+        "Flare Blitz",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 14,
+        "sd": 20
+      }
+    },
+    "Tanky Attacker": {
+      "ability": "Intimidate",
+      "item": "Life Orb",
+      "nature": "Brave",
+      "moves": [
+        "Fake Out",
+        "Close Combat",
+        "Flare Blitz",
+        "Darkest Lariat"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 32,
+        "sd": 2
+      }
+    }
+  },
+  "Indeedee-M": {
+    "Scarf Attacker": {
+      "ability": "Psychic Surge",
+      "item": "Choice Scarf",
+      "nature": "Modest",
+      "moves": [
+        "Expanding Force",
+        "Dazzling Gleam",
+        "Mystical Fire",
+        "Taunt"
+      ],
+      "sps": {
+        "df": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    },
+    "Anti Trick Room Support": {
+      "ability": "Psychic Surge",
+      "item": "Focus Sash",
+      "nature": "Modest",
+      "moves": [
+        "Expanding Force",
+        "Hyper Voice",
+        "Trick Room",
+        "Imprison"
+      ],
+      "sps": {
+        "df": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Indeedee-F": {
+    "Tanky Support": {
+      "ability": "Psychic Surge",
+      "item": "Psychic Seed",
+      "nature": "Relaxed",
+      "moves": [
+        "Psychic",
+        "Terrain Pulse",
+        "Mystical Fire",
+        "Follow Me"
+      ],
+      "sps": {
+        "hp": 32,
+        "df": 32,
+        "sd": 2
+      }
+    }
+  },
+  "Jolteon": {
+    "Fast Support": {
+      "ability": "Volt Absorb",
+      "item": "Focus Sash",
+      "nature": "Timid",
+      "moves": [
+        "Thunderbolt",
+        "Electro Web",
+        "Fake Tears",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "sa": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Kangaskhan": {
+    "Last Resort Attacker": {
+      "ability": "Scrappy",
+      "item": "Silk Scarf",
+      "nature": "Adamant",
+      "moves": [
+        "Fake Out",
+        "Last Resort"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 32,
+        "df": 2
+      }
+    },
+    "Offensive Mega": {
+      "ability": "Scrappy",
+      "item": "Kangaskhanite",
+      "nature": "Jolly",
+      "moves": [
+        "Fake Out",
+        "Double-Edge",
+        "Drain Punch",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 2,
+        "at": 32,
+        "sp": 32
+      }
+    }
+  },
+  "Kingambit": {
+    "Black Glasses Attacker": {
+      "ability": "Defiant",
+      "item": "Black Glasses",
+      "nature": "Adamant",
+      "moves": [
+        "Kowtow Cleave",
+        "Sucker Punch",
+        "Iron Head",
+        "Protect"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 32,
+        "sd": 2
+      }
+    },
+    "Tanky Attacker by natsumewato (Worlds 2026 1st)": {
+      "ability": "Defiant",
+      "item": "Chople Berry",
+      "nature": "Adamant",
+      "moves": [
+        "Kowtow Cleave",
+        "Sucker Punch",
+        "Iron Head",
+        "Low Kick"
+      ],
+      "sps": {
+        "hp": 32,
+        "at": 15,
+        "sd": 19
+      }
+    }
   }
 }
