@@ -84,7 +84,7 @@
       "sps": {
         "hp": 2,
         "at": 32,
-        "sd": 32
+        "sp": 32
       }
     }
   },
@@ -208,9 +208,11 @@
         "Protect"
       ],
       "sps": {
-        "hp": 32,
-        "sd": 26,
-        "sp": 8
+        "at": 32,
+        "df": 1,
+        "sa": 5,
+        "sd": 25,
+        "sp": 3
       }
     },
     "Sturdy All-Out Attack":{
@@ -596,8 +598,8 @@
         "Protect"
       ],
       "sps": {
-        "hp": 1,
-        "sa": 31,
+        "hp": 2,
+        "sa": 32,
         "sp": 32
       }
     }
@@ -620,26 +622,8 @@
       }
     }
   },
-  "Dragapult": {
-    "Offensive Mega": {
-      "ability": "Blaze",
-      "item": "Delphoxite",
-      "nature": "Timid",
-      "moves": [
-        "Heat Wave",
-        "Psychic",
-        "Substitute",
-        "Protect"
-      ],
-      "sps": {
-        "hp": 1,
-        "sa": 31,
-        "sp": 32
-      }
-    }
-  },
   "Dragonite": {
-    "Special Attacker Mega by Takuma Yamazaki 2026 World Champ": {
+    "Special Attacker Mega by natsumewato (Worlds 2026 1st)": {
       "ability": "Multiscale",
       "item": "Dragoninite",
       "nature": "Modest",
@@ -830,7 +814,7 @@
       }
     }
   },
-  "Floette": {
+  "Floette-Eternal": {
     "Max Speed Fairy Attacker": {
       "ability": "Flower Veil",
       "item": "Floettite",
@@ -855,10 +839,11 @@
         "Moonblast",
         "Dazzling Gleam",
         "Draining Kiss",
-        "Protect"
+        "Calm Mind"
       ],
       "sps": {
         "hp": 26,
+        "df": 2,
         "sa": 25,
         "sp": 13
       }
@@ -1032,6 +1017,7 @@
         "hp": 8,
         "df": 6,
         "sa": 21,
+        "sd": 1,
         "sp": 30
       }
     }
@@ -1112,7 +1098,7 @@
       "item": "Life Orb",
       "nature": "Modest",
       "moves": [
-        "Make it Rain",
+        "Make It Rain",
         "Shadow Ball",
         "Nasty Plot",
         "Protect"
@@ -1129,7 +1115,7 @@
       "nature": "Timid",
       "moves": [
         "Shadow Ball",
-        "Make it Rain",
+        "Make It Rain",
         "Power Gem",
         "Steel Beam"
       ],
@@ -1257,7 +1243,7 @@
         "Waterfall",
         "Ice Fang",
         "Taunt",
-        "Thunderwave"
+        "Thunder Wave"
       ],
       "sps": {
         "hp": 32,
@@ -1336,7 +1322,7 @@
       }
     }
   },
-  "Indeedee-M": {
+  "Indeedee": {
     "Scarf Attacker": {
       "ability": "Psychic Surge",
       "item": "Choice Scarf",
@@ -1345,7 +1331,7 @@
         "Expanding Force",
         "Dazzling Gleam",
         "Mystical Fire",
-        "Taunt"
+        "Trick"
       ],
       "sps": {
         "df": 2,
@@ -1648,7 +1634,7 @@
       "nature": "Adamant",
       "moves": [
         "Close Combat",
-        "Accelrock",
+        "Accelerock",
         "Rock Slide",
         "Protect"
       ],
@@ -2269,7 +2255,7 @@
     "Mixed Mega Attacker by SableyeVGC": {
       "ability": "Intimidate",
       "item": "Salamencite",
-      "nature": "Timid",
+      "nature": "Naive",
       "moves": [
         "Hyper Voice",
         "Double-Edge",
@@ -2286,7 +2272,7 @@
     "Crit Mega Attacker by James Baek (pair with Dragon Cheer support)": {
       "ability": "Intimidate",
       "item": "Salamencite",
-      "nature": "Timid",
+      "nature": "Adamant",
       "moves": [
         "Slash",
         "Brick Break",
@@ -2366,7 +2352,7 @@
       ],
       "sps": {
         "hp": 32,
-        "sa": 32,
+        "at": 32,
         "sd": 2
       }
     }
@@ -2395,7 +2381,7 @@
       "item": "Sitrus Berry",
       "nature": "Bold",
       "moves": [
-        "Match Gotcha",
+        "Matcha Gotcha",
         "Shadow Ball",
         "Rage Powder",
         "Trick Room"
@@ -2619,7 +2605,7 @@
     },
     "No Item Acrobatics": {
       "ability": "Gale Wings",
-      "item": "(none)",
+      "item": "",
       "nature": "Jolly",
       "moves": [
         "Flare Blitz",
